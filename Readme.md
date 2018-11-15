@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomVGridControl.cs](./CS/WindowsApplication3/CustomVGridControl.cs)
+* [Form1.cs](./CS/WindowsApplication3/Form1.cs) (VB: [Form1.vb](./VB/WindowsApplication3/Form1.vb))
+* [Program.cs](./CS/WindowsApplication3/Program.cs) (VB: [Program.vb](./VB/WindowsApplication3/Program.vb))
+<!-- default file list end -->
 # How to align summary values displayed in a group row to the corresponding columns
 
 
