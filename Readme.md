@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomVGridControl.cs](./CS/WindowsApplication3/CustomVGridControl.cs)
+* [Form1.cs](./CS/WindowsApplication3/Form1.cs)
+<!-- default file list end -->
 # How to align summary values displayed in a group row to the corresponding columns
 
 
